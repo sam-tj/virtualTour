@@ -1,0 +1,14 @@
+#: locale=de
+
+## Tour
+
+### Description
+tour.description = Example project
+
+### Title
+tour.name = SGP at Night
+
+## Media
+
+### Title
+panorama_447C1B67_5785_3F91_41CD_00D775E1DC41.label = 20200131_214444
