@@ -1,0 +1,38 @@
+#: locale=de
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Unbenannt 1
+
+## Media
+
+### Title
+panorama_5D3472D7_5785_0EB9_419E_D286CC08DEF0.label = 20210730_172342
+
+## E-Learning
+
+### Score Name
+score1.label = Score 1
+
+### Question Screen
+quizQuestion_4660CC02_579D_1994_41B5_304207F923D1.ok = OK
+
+### Report Screen
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.completion = Completed
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.downloadCSV = Download .csv
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.elapsedTime = Time
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.items = Items Found
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.questions = Questions
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.questionsCorrect = Correct
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.questionsIncorrect = Incorrect
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.repeat = Repeat
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.submitToLMS = Submit
+quizScore_4662EC03_579D_1994_41D0_EBC9F9B894D4.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_4661BC02_579D_1994_41B6_CE903C759882.repeat = Repeat
+quizTimeout_4661BC02_579D_1994_41B6_CE903C759882.score = View Score
+quizTimeout_4661BC02_579D_1994_41B6_CE903C759882.title = - TIMEOUT -
